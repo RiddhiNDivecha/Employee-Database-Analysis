@@ -1,4 +1,4 @@
-# 🧑‍💼 SQL HR Case Study Project
+# 🧑‍💼 Employee Database Analysis 
 
 This project is a comprehensive SQL case study using mock HR data including `Employee`, `Department`, `Job`, and `Location` tables.
 
